@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nethsara
-- 👀 I’m interested in Machine Learning
 - 🧭 https://siyum.me
 - 📫 How to reach me me@siyum.me
 
