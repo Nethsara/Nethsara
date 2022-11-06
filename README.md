@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning nodejs,<br><br>👨‍💻 All of my projects are available at siyum.me<br><br>📝 I regularly write articles on blog.siyum.me<br><br>💬 Ask me about java, php<br><br>📫 How to reach me me@siyum.me<br><br>📄 Know about my experiences https://www.linkedin.com/in/nethsarask/
+🌱 I’m currently learning NodeJS<br><br>👨‍💻 All of my projects are available at <a href="https://siyum.me">siyum.me</a><br><br>📝 I regularly write articles on <a href = "https://blog.siyum.me">blog.siyum.me</a><br><br>💬 Ask me about java, php<br><br>📫 How to reach me me@siyum.me<br><br>📄 Know about my experiences <a href="https://www.linkedin.com/in/nethsarask/">here</a>
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nethsara&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
