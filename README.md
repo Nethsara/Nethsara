@@ -11,7 +11,6 @@ Hey there, Undergraduate Computer Science Student. I am currently working as an 
 * ✉️  You can contact me at [x@siyum.me](mailto:x@siyum.me)
 * 🧠  I'm learning Web Technologies
 
-<a href="https://app.daily.dev/nethsarask"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=ffi" width="400" alt="Nethsara Siyum's Dev Card"/></a>
 
 <a href="https://www.github.com/Nethsara" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -55,3 +54,5 @@ src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-
 <a href="http://www.github.com/Nethsara"><img src="https://activity-graph.herokuapp.com/graph?username=Nethsara&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Nethsara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethsara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://app.daily.dev/nethsarask" align="right"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=ffi" width="400" alt="Nethsara Siyum's Dev Card"/></a>
