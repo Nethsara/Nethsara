@@ -11,6 +11,8 @@ Hey there, Undergraduate Computer Science Student. I am currently working as an 
 * ✉️  You can contact me at [x@siyum.me](mailto:x@siyum.me)
 * 🧠  I'm learning Web Technologies
 
+<a href="https://app.daily.dev/nethsarask"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=ffi" width="400" alt="Nethsara Siyum's Dev Card"/></a>
+
 <a href="https://www.github.com/Nethsara" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
