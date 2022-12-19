@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-
 
 <p align="left"> <a href="https://www.facebook.com/NethsaraSiyumKesawa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nethsara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nethsarask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nethsarask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19923865/nethsrk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-## GitHub Stats:
+### GitHub Stats:
 <div align="center">
   
 
@@ -54,20 +54,15 @@ src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nethsara&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
   
-# GitHub Trophies
+### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nethsara&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-  ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/N/N/blob/output/snake.svg" alt="Snake animation" />
 
-###
   
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
