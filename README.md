@@ -15,6 +15,7 @@ Hey there, Undergraduate Computer Science Student. I am currently working as an 
 <a href="https://www.github.com/Nethsara" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
+<div align="center">
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -40,15 +41,16 @@ src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
+  </div>
+
 ### Socials
+<div align="center">
 
 <p align="left"> <a href="https://www.facebook.com/NethsaraSiyumKesawa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nethsara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nethsarask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nethsarask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19923865/nethsrk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+</div>
 
 ### GitHub Stats:
 <div align="center">
-  
-
-  
 ![](https://github-readme-stats.vercel.app/api?username=Nethsara&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nethsara&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nethsara&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -56,12 +58,14 @@ src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-
 
   
 ### GitHub Trophies
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Nethsara&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
+</div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/N/N/blob/output/snake.svg" alt="Snake animation" />
 
   
 ### Random Dev Quote
