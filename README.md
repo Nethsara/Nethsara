@@ -12,8 +12,6 @@ Hey there, Undergraduate Computer Science Student. I am currently working as an 
 * 🧠  I'm learning Web Technologies
 
 
-<a href="https://www.github.com/Nethsara" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
