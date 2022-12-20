@@ -59,7 +59,7 @@ src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-
 
 </div>
 <div align="right">
-<a href="https://app.daily.dev/nethsarask" align="right"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=wq2" width="300" alt="Nethsara Siyum's Dev Card"/></a>
+<a href="https://app.daily.dev/nethsarask" align="right"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=wq2" width="300" height=600 alt="Nethsara Siyum's Dev Card"/></a>
 </div>
 
 <br clear="both">
