@@ -58,20 +58,13 @@ src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-
 ![](https://github-profile-trophy.vercel.app/?username=Nethsara&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
+<div align="right">
+<a href="https://app.daily.dev/nethsarask" align="right"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=wq2" width="300" alt="Nethsara Siyum's Dev Card"/></a>
+</div>
 
 <br clear="both">
-
-
   
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nethsara&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<div align="right">
-
-<a href="https://app.daily.dev/nethsarask" align="right"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=wq2" width="300" alt="Nethsara Siyum's Dev Card"/></a>
-</div>
