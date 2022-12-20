@@ -56,11 +56,11 @@ src="https://img.shields.io/github/followers/Nethsara?logo=github&style=for-the-
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Nethsara&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-<div align="right">
-<a href="https://app.daily.dev/nethsarask" align="right"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=wq2" width="150"  alt="Nethsara Siyum's Dev Card"/></a>
-</div>
-</div>
 
+</div>
+<div align="center">
+<a href="https://app.daily.dev/nethsarask" align="right"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=wq2" width="200"  alt="Nethsara Siyum's Dev Card"/></a>
+</div>
 
 <br clear="both">
   
