@@ -44,9 +44,10 @@ Hey there, Undergraduate Computer Science Student. I am currently working as an 
 
 ### GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nethsara&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethsara&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethsara&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+![](https://github-readme-stats.vercel.app/api?username=Nethsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nethsara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nethsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
   
