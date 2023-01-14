@@ -42,28 +42,18 @@ Hey there, Undergraduate Computer Science Student. I am currently working as an 
 
 <p align="left"> <a href="https://www.facebook.com/NethsaraSiyumKesawa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nethsara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nethsarask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nethsarask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19923865/nethsrk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### GitHub Stats:
-<div align="center">
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nethsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nethsara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nethsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nethsara&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-  
-### GitHub Trophies
-<div align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://github-profile-trophy.vercel.app/?username=Nethsara&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-<div align="center">
-<a href="https://app.daily.dev/nethsarask" align="right"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=wq2" width="200"  alt="Nethsara Siyum's Dev Card"/></a>
-</div>
-
-<br clear="both">
-  
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
