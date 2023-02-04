@@ -10,7 +10,7 @@ Hey there, Undergraduate Computer Science Student. I am currently working as an 
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [siyum.me](http://siyum.me)
 * ✉️  You can contact me at [x@siyum.me](mailto:x@siyum.me)
-* 🧠  I'm learning Web Technologies & Cloud Computing
+* 🧠  I'm learning Web Technologies & Cloud Computing, ML
 
 
 ### Skills
