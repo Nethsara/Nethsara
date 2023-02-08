@@ -56,7 +56,7 @@ Hey there, Undergraduate Computer Science Student. I am currently working as an 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<a href="https://app.daily.dev/nethsarask"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=b9i" width="400" alt="Nethsara Siyum's Dev Card"/></a>
+
 
 ---
