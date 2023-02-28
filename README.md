@@ -13,7 +13,6 @@ Hey there, Undergraduate Computer Science Student. I am currently working as an 
 * 🧠  I'm learning Web Technologies & Cloud Computing, ML
 
 
-
 ### Skills
 
 <p align="left">
