@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m Full Stack developer. 🧑‍💻
 -------------------------------
 
-
-
 Hey there , Undergraduate Computer Science Student. I am currently working as an intern software engineer. I am passionate about JS, PHP, and Java.
 
 * 🌍  I'm based in Sri Lanka
