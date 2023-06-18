@@ -9,7 +9,7 @@ Hey there , Undergraduate Computer Science Student. I am passionate about JS, PH
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [siyum.me](http://siyum.me)
 * ✉️  You can contact me at [x@siyum.me](mailto:x@siyum.me)
-* 🧠  I'm learning Web Technologies & Cloud Computing, ML
+* 🧠  I'm learning Web Technologies & Cloud Computing, Spring Boot, ML
 
 
 ### Skills
