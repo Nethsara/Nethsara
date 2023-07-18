@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nethsara Siyum Kesawa
 ======================================================================================================================================
 
-I’m Full Stack developer. 🧑‍💻☺️
+I’m Full Stack developer. 🧑‍💻
 
 -------------------------------
 Hey there , Undergraduate Computer Science Student. I am passionate about JS, PHP, and Java.
