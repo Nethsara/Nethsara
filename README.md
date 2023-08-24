@@ -60,6 +60,7 @@ Hey there, Undergraduate Computer Science Student. I am passionate about JS, PHP
 
 <a href="https://app.daily.dev/nethsarask"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=b9i" width="400" alt="Nethsara Siyum's Dev Card"/></a>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c7ceaf8bda28d9914b75f7?variant=dark&roadmaps=software-architect%2Cbackend%2Csystem-design%2Cdevops)]
 
 ---
 
