@@ -5,12 +5,12 @@ I’m Full Stack developer. 🧑‍💻
 
 
 -------------------------------
-Hey there, Undergraduate Computer Science Student. I am passionate about JS, PHP, and Java.
+Hey there, Undergraduate Computer Science Student and Associate Software Engineer. I am passionate about JS, PHP, and Java.
 
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [siyum.me](http://siyum.me)
 * ✉️  You can contact me at [x@siyum.me](mailto:x@siyum.me)
-* 🧠  I'm learning Web Technologies & Cloud Computing, Spring Boot, ML
+* 🧠  I'm learning AWS
 
 
 ### Skills
