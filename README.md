@@ -55,6 +55,8 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nethsara&show_icons=true&locale=en&theme=monokai" alt="Nethsara" /></p>
 
+<a href="https://app.daily.dev/nethsarask"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=8mq" width="400" alt="Nethsara Siyum's Dev Card"/></a>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Nethsara">
