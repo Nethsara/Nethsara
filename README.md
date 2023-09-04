@@ -55,9 +55,11 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nethsara&show_icons=true&locale=en&theme=monokai" alt="Nethsara" /></p>
 
+<p>&nbsp;[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c7ceaf8bda28d9914b75f7?variant=dark&roadmaps=software-architect%2Cbackend%2Csoftware-design-architecture%2Cdevops)](https://roadmap.sh)</p>
+
 &nbsp;<a href="https://app.daily.dev/nethsarask"><img src="https://api.daily.dev/devcards/07503fc9f55b4284a5e00f511645842b.png?r=8mq" width="400" alt="Nethsara Siyum's Dev Card"/></a>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c7ceaf8bda28d9914b75f7?variant=dark&roadmaps=software-architect%2Cbackend%2Csoftware-design-architecture%2Cdevops)](https://roadmap.sh)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
