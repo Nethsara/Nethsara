@@ -9,7 +9,7 @@
 - 💬 Ask me about **Tech**
 - 📫 How to reach me **x@siyum.me**
 - 👨‍💻 All of my projects are available at **https://siyum.me**
-- 📚 Read my blogs **(here)[https://nethsarask.medium.com/]**
+- 📚 Read my blogs **(https://nethsarask.medium.com/)[here]**
 
 <div> <a href="https://www.linkedin.com/in/nethsarask" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Nethsara" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
