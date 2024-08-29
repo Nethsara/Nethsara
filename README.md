@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nethsara Siyum Kesawa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nethsara&label=Profile%20views&color=0e75b6&style=flat" alt="Nethsara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nethsara&theme=dark_lover" alt="Nethsara" /></a> </p>
 
 - 🔭 I’m currently working on **Apium Innovations**
 - 🇱🇰 I’m based in **Sri Lanka**
